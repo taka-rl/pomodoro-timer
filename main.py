@@ -2,9 +2,9 @@ import tkinter as tk
 import time
 
 # Constants
-WORK_MINUTES = 0.25
-BREAK_MINUTES = 0.1
-POMODORO_CYCLES = 2
+WORK_MINUTES = 50
+BREAK_MINUTES = 10
+POMODORO_CYCLES = 4
 STUDY_LABEL = "Study"
 BREAK_LABEL = "Break"
 
