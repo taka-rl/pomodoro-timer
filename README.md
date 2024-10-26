@@ -15,3 +15,7 @@
 
 3. Click the start button  
    ![image](https://github.com/user-attachments/assets/3fcd7f75-f8c5-4631-84b0-8c61a6fb5815)  
+
+4. Finish the timer  
+   If you would like to continue the session, click Reset and Start, if not close the timer.  
+   ![image](https://github.com/user-attachments/assets/9151e7b4-b2e6-4ad5-9f8a-5e93729c3ee7)
